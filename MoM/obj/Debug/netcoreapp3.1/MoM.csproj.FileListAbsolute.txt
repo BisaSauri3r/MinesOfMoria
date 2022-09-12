@@ -1,0 +1,13 @@
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.csprojAssemblyReference.cache
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.AssemblyInfoInputs.cache
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.AssemblyInfo.cs
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.csproj.CoreCompileInputs.cache
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.exe
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.deps.json
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.runtimeconfig.json
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.runtimeconfig.dev.json
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.dll
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\bin\Debug\netcoreapp3.1\MoM.pdb
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.dll
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.pdb
+C:\Users\Carmen\Desktop\C#-Projekte\MoM\MoM\obj\Debug\netcoreapp3.1\MoM.genruntimeconfig.cache
